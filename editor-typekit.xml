@@ -10,7 +10,7 @@
 	<license>GNU/GPL Version 2 - http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<description>Adobe TypeKit plugin for JCE</description>
 	<icon></icon>
-	<files folder="plugins/jce">
+	<files folder="plugins/jce/editor-typekit">
 		<file plugin="editor-typekit">editor-typekit.php</file>
 		<file>editor_plugin.js</file>
 		<folder>classes</folder>
