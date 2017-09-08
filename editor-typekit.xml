@@ -11,7 +11,8 @@
 	<description>Adobe TypeKit plugin for JCE</description>
 	<icon></icon>
 	<files folder="plugins/jce/editor-typekit">
-		<file plugin="editor-typekit">editor_plugin.js</file>
+		<file plugin="editor-typekit">editor-typekit.php</file>
+		<file>editor_plugin.js</file>
 		<folder>classes</folder>
 	</files>
 	<params group="standard">
