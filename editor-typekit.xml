@@ -13,8 +13,11 @@
 	<files folder="plugins/jce">
 		<file plugin="editor-typekit">editor-typekit.php</file>
 		<file>editor_plugin.js</file>
+		<folder>classes</folder>
 	</files>
-	<params group="standard"></params>
+	<params group="standard">
+		<param type="text" name="kitid" value="" label="TypeKit ID" />
+	</params>
 	<languages></languages>
 	<help></help>
 </extension>
