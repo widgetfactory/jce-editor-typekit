@@ -8,7 +8,7 @@
                 };
 
                 var scriptLoader = new tinymce.dom.ScriptLoader();
-                scriptLoader.add('//use.typekit.net/' + config.kitId + '.js');
+                scriptLoader.add('//use.typekit.net/' + config.kitid + '.js');
                 scriptLoader.loadQueue(function() {
                     try {
                         Typekit.load(config);
